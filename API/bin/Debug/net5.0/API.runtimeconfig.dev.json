@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mgalas/.dotnet/store/|arch|/|tfm|",
+      "/Users/mgalas/.nuget/packages"
+    ]
+  }
+}
