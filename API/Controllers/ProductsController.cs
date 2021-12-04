@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace API.Controllers
 {
-    public class ProductsController 
+    public class ProductsController : BaseController
     {
         
     }
