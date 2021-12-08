@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "EZGrOnv1qsIaSjtuO3oX0D3+nkusBSBwuoehjVwTvrn84Q8KtB1nRYBPegS5+Tvhw+q/o/gMz34TdE8sFFihRg==",
+  "dgSpecHash": "TBRb88dJy3nDqJjibFRe3TIJf/Wa9VraXsmoQ1spjMRyLX7jFXGLBXkdcWCE68ROsJS8fQWtMhI5URm8HiPlhA==",
   "success": true,
   "projectFilePath": "/Users/mgalas/Desktop/Coding/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/mgalas/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/mgalas/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.data.sqlite.core/5.0.12/microsoft.data.sqlite.core.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore/5.0.12/microsoft.entityframeworkcore.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.12/microsoft.entityframeworkcore.abstractions.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.12/microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512",
+    "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.design/5.0.12/microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.12/microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.12/microsoft.entityframeworkcore.sqlite.5.0.12.nupkg.sha512",
     "/Users/mgalas/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.12/microsoft.entityframeworkcore.sqlite.core.5.0.12.nupkg.sha512",
