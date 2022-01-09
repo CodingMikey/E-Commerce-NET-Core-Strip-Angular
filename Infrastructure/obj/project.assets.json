@@ -953,32 +953,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/mgalas/.nuget/packages/": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mgalas/Desktop/Coding/skinet/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/mgalas/Desktop/Coding/skinet/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/Users/mgalas/.nuget/packages/",
-      "outputPath": "/Users/mgalas/Desktop/Coding/skinet/Infrastructure/obj/",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mgalas/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/mgalas/Desktop/Coding/skinet/Core/Core.csproj": {
-              "projectPath": "/Users/mgalas/Desktop/Coding/skinet/Core/Core.csproj"
+            "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Core\\Core.csproj"
             }
           }
         }
@@ -1013,7 +1015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
