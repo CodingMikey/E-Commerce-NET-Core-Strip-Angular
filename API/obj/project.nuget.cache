@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bGc4mJijqhsikmhVuqOyNj5Qhu/YTid11FdFbnCSo7gM29V3hIeXa0iPixrfBFQ7vwWNFNylNm62V9VPAmpUVQ==",
+  "dgSpecHash": "cUiZA3GTYRHVzLdjdmgOXavmIu+Tl3kVRoZPEvZ+LRRcxmuXvXvNE7ptlF9yu8yKk+8SVa5dHYcUwpkRX/EeKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
