@@ -27,7 +27,7 @@ namespace API.Controllers
         {
             var products = await _repo.GetProductsAsync();
             
-            return Ok(products);
+             Ok(products);
         }
 
         [HttpGet("{id}")]
