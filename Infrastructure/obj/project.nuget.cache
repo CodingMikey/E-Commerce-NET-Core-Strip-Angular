@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bBebr0IL/+4Vll6mYaQZe40riGZh5sSNbUwSPjqTGU0jT5LHFs/BW5VNJqECxQRStkLQCs8Rm+THh0df2cAMQw==",
+  "dgSpecHash": "8jEK2+jalUofwX+fnGttvpaWadFpV1mM8GSKnmtu51VtkTZq4nWbCc4dkI+R2Exm2zUX4ftEiJE6maZHlHpe7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.12\\microsoft.data.sqlite.core.5.0.12.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

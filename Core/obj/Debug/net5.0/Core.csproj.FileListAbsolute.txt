@@ -22,3 +22,15 @@ C:\Users\USER\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\
 C:\Users\USER\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.dll
 C:\Users\USER\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\ref\Core.dll
 C:\Users\USER\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\bin\Debug\net5.0\Core.dll
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.dll
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\Core\obj\Debug\net5.0\Core.pdb

@@ -1294,11 +1294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\API\\API.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\api\\API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\API\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1315,8 +1315,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Coding\\E-Commerce-NET-WebAPI-Strip-Angular\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
