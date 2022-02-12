@@ -179,4 +179,3 @@ C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\ob
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\ref\API.dll
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.pdb
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\bin\Debug\net5.0\API.StaticWebAssets.xml
