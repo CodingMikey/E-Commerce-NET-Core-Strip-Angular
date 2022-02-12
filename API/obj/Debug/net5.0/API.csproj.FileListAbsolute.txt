@@ -172,7 +172,6 @@ C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\ob
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
-C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.csproj.CopyComplete
@@ -180,3 +179,4 @@ C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\ob
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\ref\API.dll
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.pdb
 C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Coding\E-Commerce-NET-WebAPI-Strip-Angular\api\bin\Debug\net5.0\API.StaticWebAssets.xml
