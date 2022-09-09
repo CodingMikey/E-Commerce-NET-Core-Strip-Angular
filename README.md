@@ -1,2 +1,2 @@
-# E-Commerce-NET-WebAPI-Strip-Angular
+# E-Commerce-NET-WebAPI-Stripe-Angular
 E-Commerce .NET Web API Back-End
